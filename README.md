@@ -1,3 +1,7 @@
+# Change Log
+5.24: 主程序进行了线程优化，识别控制与动作展示界面分开，运行更加流畅
+5.24：The main program has been optimized to run more smoothly.
+
 # Mediapipe_App
 Some Applications of Mediapipe
 
@@ -30,7 +34,3 @@ according to the pose-class. Name-Format: "raw_pose_typenumber_imagenumber", exc
 5. 运行主程序quanhuang_run.py,开启摄像头，玩拳皇~
 
 （Now run the main program "quanhuang_run.py" to open camera, then start a game to play）
-
-## Change Log
-5.24: 主程序进行了线程优化，识别控制与动作展示界面分开，运行更加流畅
-5.24：The main program has been optimized to run more smoothly.
